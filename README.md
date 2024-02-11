@@ -1,0 +1,2 @@
+# Building-a-LLM-Chatbot-using-Google-s-Gemini-Pro-with-Streamlit-Python
+Developed a conversational chatbot using Google's Gemini Pro model and integrated it into a user-friendly web interface using Streamlit in Python. Leveraged advanced natural language processing techniques to enable interactive dialogue and provide meaningful responses. Demonstrated proficiency in NLP and web application development.
